@@ -7,3 +7,5 @@ Update again for test :D
 Will save it to github from local visual code
 ## Sub header 2
 ## Sub header 3
+#Local development
+1. Open index.html in your browser . TEST
